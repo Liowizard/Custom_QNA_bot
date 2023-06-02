@@ -63,6 +63,6 @@ while True:
 
     print("")
 
-    print("bot"+results['answer'])
+    print("bot: "+results['answer'])
     print("""------------------------------------------------------------------------
     """)
